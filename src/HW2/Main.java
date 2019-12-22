@@ -20,9 +20,9 @@ public class Main {
         int[] list2 = list1.clone();
         int[] list3 = list1.clone();
 
-//        print(list1);
-//        print(list2);
-//        print(list3);
+       print(list1);
+       print(list2);
+       print(list3);
 
         sortBubble(list1);
         sortInsert(list2);
