@@ -20,7 +20,7 @@ public class Main {
         int[] list2 = list1.clone();
         int[] list3 = list1.clone();
 
-       print(list1);
+      // print(list1);
        print(list2);
        print(list3);
 
